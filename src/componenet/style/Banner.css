@@ -1,0 +1,13 @@
+.banner{
+    width: 100%;
+    height: 30rem;
+    position:sticky;
+    
+}
+.banner-img{
+    width:100%;
+    height: 25rem;
+    padding: 0 10%;
+    
+    
+}

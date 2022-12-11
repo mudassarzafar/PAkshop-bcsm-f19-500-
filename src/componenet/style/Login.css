@@ -1,0 +1,138 @@
+*,::before,::after{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+#email{
+    border-radius: 30px;
+    width:250px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: large;
+}
+#password{
+    border-radius: 30px;
+    width:250px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: large;
+}
+
+.login-main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    font-size: 3.5rem;
+    color:	#8B4513;
+    
+
+}
+.login-div{
+    width: 25rem;
+    height: 24rem;
+    background-color: white;
+    box-shadow: 4px 7px 14px #888888;
+    color: black;
+}
+#logintobricklink{
+    font-size:1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3.7rem;
+   
+    
+
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#email{
+    border-radius: 7px;
+    margin-top: 2rem;
+    width: 20rem;
+    background-color:	#F5DEB3;
+    border:none;
+}
+#password{
+    border-radius: 7px;
+    width: 20rem;
+    margin-top: 2rem;
+    background-color:	#F5DEB3;
+    border:none;
+}
+#loginbtn{
+    width: 20rem;
+    height: 2.4rem;
+    border-radius: 5px;
+    background-color: 	#8B4513;
+    margin-top: 2rem;
+    color: white;
+    font-size: 1.2rem;
+    border:none;
+}
+#cna{
+    font-size: 1.3rem;
+    color: black;
+    margin-top: 1.3rem;
+}
+#cna a{
+    text-decoration: none;
+    color: #8B4513;
+}
+.signup-main{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    background-color: whitesmoke;
+    font-size: 3.5rem;
+    color:	#8B4513;
+
+}
+.signup-div{
+    width: 27rem;
+    height: 33rem;
+    background-color: white;
+    box-shadow: 4px 7px 14px #888888;
+    color: black;
+}
+#Registertobricklink{
+    font-size:1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+
+}
+#fname{
+    border-radius: 7px;
+    margin-top: 2rem;
+    width: 20rem;
+    height: 2.4rem;
+    background-color:	#F5DEB3;
+    border:none;
+font-size: large;
+  padding-left: 0.6rem;
+}
+#lname{
+    border-radius: 7px;
+    margin-top: 2rem;
+    width: 20rem;
+    height: 2.4rem;
+    background-color:	#F5DEB3;
+    border:none;
+    font-size: large;
+    padding-left: 0.6rem;
+}
+

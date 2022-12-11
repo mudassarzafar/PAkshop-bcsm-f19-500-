@@ -1,0 +1,19 @@
+.footer{
+    width:96%;
+    height: 17rem;
+    background-color: #151414;
+    margin-top: 5rem;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-top: 3rem;
+    color: white;
+    
+}
+
+#footer-desc{
+    width:70%;
+    margin-left: 15%;
+    
+    margin-top: 2rem;
+    font-size:23px;
+}
